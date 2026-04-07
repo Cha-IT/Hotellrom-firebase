@@ -11,7 +11,7 @@ Bruk [guidene om å skrive og lese data i Cloud Firestore](https://cha-im.github
 ## Oppgaver
 1. Skriv ut informasjon om alle rom på hotellet.
 2. Skriv ut alle rom i 1. etasje (eller la brukeren velge etasje).
-3. Skriv ut alle rom med mer enn to sengeplasser (eller la brukeren velge anall sengeplasser).
+3. Skriv ut alle rom med mer enn to sengeplasser (eller la brukeren velge antall sengeplasser).
 4. Skriv ut alle rom som er ledige.
 5. Skriv ut alle suiter som er ledige.
 6. Skriv ut alle dobbeltrom i 1. etasje som er ledige.
